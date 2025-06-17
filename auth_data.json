@@ -1,14 +1,8 @@
-[
-  {
-    "code": "ABC123456",
-    "device_id": "未绑定",
-    "expire_date": "2025-09-01",
-    "active": true
+{
+  "abcd1234": {
+    "expire": "2025-12-31"
   },
-  {
-    "code": "XYZ999888",
-    "device_id": "CPU-12345XYZ",
-    "expire_date": "2025-06-30",
-    "active": true
+  "test001": {
+    "expire": "2025-07-01"
   }
-]
+}
