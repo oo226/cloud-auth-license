@@ -6,5 +6,9 @@
   "DEF456": {
     "bind_id": "",
     "expire_at": "2025-07-01"
+    },
+  "yaoshi": {
+    "bind_id": "",
+    "expire_at": "2026-07-01"
   }
 }
