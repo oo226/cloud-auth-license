@@ -1,14 +1,14 @@
 {
-  "ABC123": {
+  "qigong": {
     "bind_id": "344c0d3371b004d42d3e6c290068cc57fbc7f99ca045fc0dbc68ffc1fed25ba3",
-    "expire_at": "2025-09-30"
+    "expire_at": "2026-09-30"
   },
-  "DEF456": {
+  "moli01": {
     "bind_id": "",
-    "expire_at": "2025-07-01"
+    "expire_at": "2026-07-01"
     },
   "yaoshi": {
-    "bind_id": "",
+    "bind_id": "09487899cfcd778db58be642bbf8e7fff808987b5c0831a6b6de00dac16b434e",
     "expire_at": "2026-07-01"
   }
 }
