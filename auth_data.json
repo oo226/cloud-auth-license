@@ -1,61 +1,62 @@
 {
-  "qigong": {
-    "bind_id": "344c0d3371b004d42d3e6c290068cc57fbc7f99ca045fc0dbc68ffc1fed25ba3",
-    "expire_at": "2030-06-18"
-  },
-  "molihua": {
-    "bind_id": "bd458a61f1482137e0c6044d4736cf3dc3f1ce6fe108bc0400b49112dcd2e388",
-    "expire_at": "2026-07-01"
-  },
-  "yaoshi": {
-    "bind_id": "09487899cfcd778db58be642bbf8e7fff808987b5c0831a6b6de00dac16b434e",
-    "expire_at": "2026-07-01"
-  },
-  "shilu": {
-    "bind_id": "d7c8f03db8376e489dc0aa46ce1b6f4d2868deaa78607e6f8038f7116a131232",
-    "expire_at": "2026-07-01"
-  },
-  "suanzi": {
-    "bind_id": "33e72badcf01e61971f77c86e14e536537f70db0ecdbb03c495745519f811a5b",
-    "expire_at": "2026-07-01"
-  },
-  "heshang": {
-    "bind_id": "c974a06332200755e10c3615c066ec9826688bed48d9bcb3c1019493ee5100ea",
-    "expire_at": "2026-07-01"
-  },
-  "baozi": {
-    "bind_id": "16f7c080ed809e3820c18a8c314e3055900fd16bdc22bc0863c911bfa5dc76ce",
-    "expire_at": "2026-07-01"
-  },
-  "yunlong": {
-    "bind_id": "15be7586a76efb68f54934d303a3dbb36fe0c0f62db3a0feb07179a0342dcf4f",
-    "expire_at": "2026-07-01"
-  },
-  "xuanfeng": {
-    "bind_id": "6d23a516bde9a2a5f0d37674d42391d5a1fb29c913f80d465658a3dc48233d97",
-    "expire_at": "2026-07-01"
-  },
-  "xiaomianhu": {
-    "bind_id": "",
-    "expire_at": "2026-07-01"
-  },
-  "heshangh": {
-    "bind_id": "",
-    "expire_at": "2026-07-01"
+  "cloud_app": {
+    "qigong": {
+      "bind_id": "344c0d3371b004d42d3e6c290068cc57fbc7f99ca045fc0dbc68ffc1fed25ba3",
+      "expire_at": "2030-06-18"
+    },
+    "molihua": {
+      "bind_id": "bd458a61f1482137e0c6044d4736cf3dc3f1ce6fe108bc0400b49112dcd2e388",
+      "expire_at": "2026-07-01"
+    },
+    "yaoshi": {
+      "bind_id": "09487899cfcd778db58be642bbf8e7fff808987b5c0831a6b6de00dac16b434e",
+      "expire_at": "2026-07-01"
+    },
+    "shilu": {
+      "bind_id": "d7c8f03db8376e489dc0aa46ce1b6f4d2868deaa78607e6f8038f7116a131232",
+      "expire_at": "2026-07-01"
+    },
+    "suanzi": {
+      "bind_id": "33e72badcf01e61971f77c86e14e536537f70db0ecdbb03c495745519f811a5b",
+      "expire_at": "2026-07-01"
+    },
+    "heshang": {
+      "bind_id": "c974a06332200755e10c3615c066ec9826688bed48d9bcb3c1019493ee5100ea",
+      "expire_at": "2026-07-01"
+    },
+    "baozi": {
+      "bind_id": "16f7c080ed809e3820c18a8c314e3055900fd16bdc22bc0863c911bfa5dc76ce",
+      "expire_at": "2026-07-01"
+    },
+    "yunlong": {
+      "bind_id": "15be7586a76efb68f54934d303a3dbb36fe0c0f62db3a0feb07179a0342dcf4f",
+      "expire_at": "2026-07-01"
+    },
+    "xuanfeng": {
+      "bind_id": "6d23a516bde9a2a5f0d37674d42391d5a1fb29c913f80d465658a3dc48233d97",
+      "expire_at": "2026-07-01"
+    },
+    "xiaomianhu": {
+      "bind_id": "",
+      "expire_at": "2026-07-01"
+    },
+    "heshangh": {
+      "bind_id": "",
+      "expire_at": "2026-07-01"
     }
-},
+  },
 
-  "grabber_app": {                                  
+  "grabber_app": {
     "version": "1.0.0",
     "users": {
       "qigomg": {
-        "pwd_hash": "qq112211",   
+        "pwd_hash": "9445a2b518bdc78825e9604d1bd08430",
         "expire": "2025-12-31",
         "max_windows": 2,
         "hwids": ["344c0d3371b004d42d3e6c290068cc57fbc7f99ca045fc0dbc68ffc1fed25ba3"]
       },
       "guest02": {
-        "pwd_hash": "5f4dcc3b5aa765d61d8327deb882cf99",   
+        "pwd_hash": "5f4dcc3b5aa765d61d8327deb882cf99",
         "expire": "2026-03-15",
         "max_windows": 3,
         "hwids": []
