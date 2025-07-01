@@ -32,15 +32,15 @@
     "expire_at": "2026-07-01"
   },
   "xuanfeng": {
-    "bind_id": 
+    "bind_id": "",
     "expire_at": "2026-07-01"
   },
   "xiaomianhu": {
-    "bind_id":
+    "bind_id": "",
     "expire_at": "2026-07-01"
   },
   "heshang": {
-    "bind_id":
+    "bind_id": "",
     "expire_at": "2026-07-01"
     }
 }
