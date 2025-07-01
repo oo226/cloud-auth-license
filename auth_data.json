@@ -43,4 +43,23 @@
     "bind_id": "",
     "expire_at": "2026-07-01"
     }
+},
+
+  "grabber_app": {                                  // 新抢单软件专用
+    "version": "1.0.0",
+    "users": {
+      "qigomg": {
+        "pwd_hash": "qq112211",   // 123456
+        "expire": "2025-12-31",
+        "max_windows": 2,
+        "hwids": [344c0d3371b004d42d3e6c290068cc57fbc7f99ca045fc0dbc68ffc1fed25ba3]
+      },
+      "guest02": {
+        "pwd_hash": "5f4dcc3b5aa765d61d8327deb882cf99",   // password
+        "expire": "2026-03-15",
+        "max_windows": 3,
+        "hwids": []
+      }
+    }
+  }
 }
