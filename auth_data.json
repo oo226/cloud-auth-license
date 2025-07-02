@@ -49,7 +49,7 @@
   "grabber_app": {
     "version": "1.0.0",
     "users": {
-      "qigomg": {
+      "qigong": {
         "pwd_hash": "9445a2b518bdc78825e9604d1bd08430",
         "expire": "2025-12-31",
         "max_windows": 2,
