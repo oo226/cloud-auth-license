@@ -50,7 +50,7 @@
     "version": "1.0.0",
     "users": {
       "qigong": {
-        "pwd_hash": "9445a2b518bdc78825e9604d1bd08430",
+        "pwd_hash": "89b2b2b6fb3ec6f5fd07b2976b5440b9",
         "expire": "2025-12-31",
         "max_windows": 2,
         "hwids": ["344c0d3371b004d42d3e6c290068cc57fbc7f99ca045fc0dbc68ffc1fed25ba3"]
