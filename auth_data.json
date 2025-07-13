@@ -36,11 +36,15 @@
     "expire_at": "2026-07-01"
   },
   "xiaomianhu": {
-    "bind_id": "",
+    "bind_id": "c8c2bd8dc600b4a1a02fa87825ad53207963ec0208b0757e168815d7aa7dc64a",
     "expire_at": "2026-07-01"
   },
   "heshangh": {
     "bind_id": "",
+    "expire_at": "2026-07-01"
+  },
+  "hongcha": {
+    "bind_id": "87b3e7d52aa3cc33709d11f7cd51ea4c54cda4d77d130e45371fca318b769816",
     "expire_at": "2026-07-01"
   }
 }
