@@ -46,5 +46,21 @@
   "hongcha": {
     "bind_id": "87b3e7d52aa3cc33709d11f7cd51ea4c54cda4d77d130e45371fca318b769816",
     "expire_at": "2026-07-01"
+  },
+  "longwang": {
+    "bind_id": "",
+    "expire_at": "2026-07-01"
+  },
+  "fuwang": {
+    "bind_id": "",
+    "expire_at": "2026-07-01"
+  },
+  "shiwang": {
+    "bind_id": "8ea3dab69844498a77fcac687007f644463b3af80047fd85e08a6327d93bd3cf",
+    "expire_at": "2026-07-01"
+  },
+  "yingwang": {
+    "bind_id": "731a6742ae932e3b0b85ddca6485d8aebdb00635c406135e3090fba6a343dde6",
+    "expire_at": "2026-07-01"
   }
 }
