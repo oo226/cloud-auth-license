@@ -62,5 +62,17 @@
   "yingwang": {
     "bind_id": "731a6742ae932e3b0b85ddca6485d8aebdb00635c406135e3090fba6a343dde6",
     "expire_at": "2026-07-01"
+  },
+  "lishizhen": {
+    "bind_id": "1bccd7dfcaebe45f68a4d60290d4b244bacd447c48f51c251c70d031354f1074",
+    "expire_at": "2026-07-01"
+  },
+  "chuixue": {
+    "bind_id": "7d60f9b8dad9167cc99087f1874a341bc2439e5c207536bc7ad296b101526b74",
+    "expire_at": "2026-07-01"
+  },
+  "aobai": {
+    "bind_id": "",
+    "expire_at": "2026-07-01"
   }
 }
